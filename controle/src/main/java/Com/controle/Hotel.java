@@ -1,5 +1,5 @@
 package Com.controle;
 
-public class Produits {
+public class Hotel {
 
 }

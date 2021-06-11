@@ -1,5 +1,5 @@
 package Com.controle;
 
-public class Compte {
+public class Main {
 
 }
