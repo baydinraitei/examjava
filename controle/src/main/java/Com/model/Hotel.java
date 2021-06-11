@@ -5,12 +5,19 @@ import java.util.Set;
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
 
 public class Hotel {
 
+	public Hotel(String string, String string2, String string3) {
+		// TODO Auto-generated constructor stub
+	}
+	public Hotel(String string, String string2, String string3) {
+		// TODO Auto-generated constructor stub
+	}
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "id", nullable = false, unique = true)
