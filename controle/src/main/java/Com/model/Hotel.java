@@ -1,4 +1,4 @@
-package Com.controle;
+package Com.model;
 
 public class Hotel {
 

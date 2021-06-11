@@ -1,4 +1,4 @@
-package Com.controle;
+package Com.model;
 
 
 import javax.persistence.Column;
